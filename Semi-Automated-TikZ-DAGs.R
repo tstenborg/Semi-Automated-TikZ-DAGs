@@ -1,6 +1,4 @@
 
-```{r setup, include=FALSE}
-
 # Semi-automated TikZ directed acyclic graphs in R.
 #
 # This script generates TikZ code for rendering directed acyclic graphs.
@@ -60,4 +58,3 @@ causalDisco::maketikz(model, xjit = 0,
     c_nd7 = "\\footnotesize Coral\\\\
              \\footnotesize Cover")
   )
-```
